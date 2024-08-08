@@ -77,7 +77,7 @@ switch(calificacion){
 };
 console.log("Gracias por dejar tu opinion. Es muy valiosa para nosotros.");
 
-//Ejercicio 4: Ciclo For
+//Ejercicio 4
 /*
 Nuestra tarea es contar la cantidad de números impares que hay desde el número 0 hasta un número X (inclusive). Para esto, debes seguir los
 siguientes pasos:
